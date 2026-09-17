@@ -100,6 +100,17 @@ A: Yes — Amazon Brand Registry accepts pending applications from recognized of
 **Q: Should I police every infringement myself?**
 A: No — prioritize revenue-impacting listings first. Use automated platform tools after Brand Registry enrollment.
 
+## Explore the full China IP toolkit
+
+| Repository | What it covers |
+|---|---|
+| [china-trademark-toolkit](https://github.com/fangwenhe/china-trademark-toolkit) | Registration, search, fees, 45 classes, refusal response, free risk self-check tool |
+| [china-ip-enforcement](https://github.com/fangwenhe/china-ip-enforcement) | Opposition, invalidation, 撤三, platform takedowns, Amazon Brand Registry China |
+| [china-copyright-registration](https://github.com/fangwenhe/china-copyright-registration) | Works & software copyright (软著) registration, checklists, POA template |
+| [awesome-china-ip](https://github.com/fangwenhe/awesome-china-ip) | Curated hub: official portals, search tools, glossary, machine-readable datasets |
+
+---
+
 ## Disclaimer & contact
 
 This playbook is **general information, not legal advice**. Cases vary; consult a qualified Chinese IP practitioner for your matter.
