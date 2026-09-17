@@ -1,5 +1,7 @@
 # China IP Enforcement & Brand Protection 🛡️
 
+**[English](README.md)** | [中文](docs/README.zh-CN.md)
+
 > A practical, bilingual playbook for **foreign brands, cross-border sellers and overseas IP firms**: oppose squatters, invalidate bad registrations, take down counterfeits on Chinese platforms, and get your brand through **Amazon Brand Registry China** correctly.
 
 **Your brand name is registered by someone else? Your listings are copied on Tmall/Douyin? Amazon Brand Registry keeps rejecting you?** This repository collects the enforcement routes, timelines, costs and templates you need — maintained by a CNIPA-recorded Chinese agency.
@@ -14,7 +16,14 @@
 - [Customs recordal](#customs-recordal)
 - [Fees & timelines](#fees--timelines)
 - [FAQ](#faq)
+- [Detailed guides, checklists & templates](#detailed-guides-checklists--templates)
 - [Disclaimer & contact](#disclaimer--contact)
+
+## Detailed guides, checklists & templates
+
+- [Opposition / invalidation / 撤三 — detailed flow & evidence packages](guides/opposition-invalidation-flow.md)
+- [Amazon Brand Registry China — full eligibility checklist](checklists/amazon-brand-registry-china.md)
+- [Platform takedown request template (EN/中文)](templates/platform-takedown-template.md)
 
 ---
 
