@@ -25,6 +25,10 @@
 - [Amazon Brand Registry China — full eligibility checklist](checklists/amazon-brand-registry-china.md)
 - [Platform takedown request template (EN/中文)](templates/platform-takedown-template.md)
 
+## 🌐 Free online tool (no sign-up)
+
+- **[Platform Takedown Eligibility Checker](https://huaqingip.com/china-ip-enforcement/platform-takedown-checker.html)** — pick the platform and the rights you hold to see whether a takedown will be accepted, the official portal, evidence list and processing time. Hub: **[china-ip-enforcement](https://huaqingip.com/china-ip-enforcement/)** · [FAQ](https://huaqingip.com/china-ip-enforcement/faq.html)
+
 ---
 
 ## Why enforcement matters
