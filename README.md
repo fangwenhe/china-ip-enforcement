@@ -27,7 +27,10 @@
 
 ## 🌐 Free online tool (no sign-up)
 
-- **[Platform Takedown Eligibility Checker](https://huaqingip.com/china-ip-enforcement/platform-takedown-checker.html)** — pick the platform and the rights you hold to see whether a takedown will be accepted, the official portal, evidence list and processing time. Hub: **[china-ip-enforcement](https://huaqingip.com/china-ip-enforcement/)** · [FAQ](https://huaqingip.com/china-ip-enforcement/faq.html)
+- **[Platform Takedown Eligibility Checker](https://huaqingip.com/china-ip-enforcement/platform-takedown-checker.html)** — pick the platform and the rights you hold to see whether a takedown will be accepted, the official portal, evidence list and processing time.
+- **[Trademark Squatter Removal Route Chooser](https://huaqingip.com/china-ip-enforcement/trademark-squatter-removal-route-chooser.html)** — pick the squatter's status (pending / in publication / registered under or over 5 years / unused 3+ years) and your rights to get the right route — opposition, invalidation, non-use cancellation or buy-back — with the statutory deadline, CNIPA official fee, timeline and winning evidence.
+
+Hub: **[china-ip-enforcement](https://huaqingip.com/china-ip-enforcement/)** · [FAQ](https://huaqingip.com/china-ip-enforcement/faq.html)
 
 ---
 
